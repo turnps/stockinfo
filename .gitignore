@@ -1,0 +1,5 @@
+*.exe
+stockinfo
+.DS_Store
+finish.csv
+stock1.csv
